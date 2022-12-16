@@ -4,6 +4,7 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/471614536f7bf176433b502d17f9f8297ddf9d19c5d345bb659211621bf8875a/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6564612d636c61727573776179"><img src="https://camo.githubusercontent.com/471614536f7bf176433b502d17f9f8297ddf9d19c5d345bb659211621bf8875a/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6564612d636c61727573776179" alt="visitor counter" width="15%" data-canonical-src="https://komarev.com/ghpvc/?username=NazifAltintas" style="max-width: 100%;"></a>
 
 
+<--
 **NazifAltintas/NazifAltintas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
