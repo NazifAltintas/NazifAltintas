@@ -3,8 +3,7 @@
 <a href="https://github.com/NazifAltintas/" rel="nofollow"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/471614536f7bf176433b502d17f9f8297ddf9d19c5d345bb659211621bf8875a/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6564612d636c61727573776179"><img src="https://camo.githubusercontent.com/471614536f7bf176433b502d17f9f8297ddf9d19c5d345bb659211621bf8875a/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6564612d636c61727573776179" alt="visitor counter" width="15%" data-canonical-src="https://komarev.com/ghpvc/?username=NazifAltintas" style="max-width: 100%;"></a>
 
-<img src="https://camo.githubusercontent.com/a447a877dc73a3296cca56c09a5f042d3512f0c98ca3c1e443f86e71b362547b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6564612d636c61727573776179267468656d653d636861727472657573652d6461726b266c61796f75743d636f6d70616374" alt="languages" width="50%" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazifAltintas&amp;theme=chartreuse-dark&amp;layout=compact" style="max-width: 100%;">
-<!--
+
 **NazifAltintas/NazifAltintas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
