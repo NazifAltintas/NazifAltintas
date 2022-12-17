@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NazifAltintas&show_icons=true&theme=tokyonight)
-![GitHub Trends SVG] (https://www.githubtrends.io/wrapped/NazifAltintas)
- 
+
+ [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
 
