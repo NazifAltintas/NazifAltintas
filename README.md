@@ -55,5 +55,5 @@
 
 ### :fire: My Stats :
 
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NazifAltintas)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NazifAltintas&theme=tokyonight&hide_border=&border_radius=9.1)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NazifAltintas&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
