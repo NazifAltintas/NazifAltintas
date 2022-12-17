@@ -71,9 +71,9 @@
 
 ### :writing_hand: Blog Posts :
   
-  <div align="center">
+ 
   
     <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" align="center"/>
-  </div>
+
 
 </div>
