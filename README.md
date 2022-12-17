@@ -56,7 +56,7 @@
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NazifAltintas&theme=tokyonight&hide_border=&border_radius=9.1)](https://git.io/streak-stats) 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NazifAltintas&show_icons=true&theme=tokyonight)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NazifAltintas&show_icons=true&theme=tokyonight&hide_border=&border_radius=9.1)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NazifAltintas&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
