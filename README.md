@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NazifAltintas&show_icons=true&theme=tokyonight)
 
- [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/NazifAltintas/langs?time_range=one_year&theme=classic)](https://githubtrends.io)
+ [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/NazifAltintas/langs?time_range=one_year&theme=bright_lights)](https://githubtrends.io)
 
