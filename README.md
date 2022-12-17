@@ -73,7 +73,6 @@
    
 <img align="center" src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" align="center"/>
   
-  ![Snake animation](https://github.com/NazifAltintas/NazifAltintas/blob/output/github-contribution-grid-snake.svg)
-
+  [![trophy](https://github-profile-trophy.vercel.app/?username=NazifAltintas)](https://github.com/ryo-ma/github-profile-trophy)
  
 </div>
