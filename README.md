@@ -63,11 +63,11 @@
   ---
 
 ### :fire: My Stats :
-[![trophy](https://github-profile-trophy.vercel.app/?username=NazifAltintas&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NazifAltintas&theme=tokyonight&hide_border=&border_radius=9.1)](https://git.io/streak-stats) 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NazifAltintas&show_icons=true&theme=tokyonight&hide_border=&border_radius=9.1)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NazifAltintas&layout=compact&theme=tokyonight&hide_border=&border_radius=9.1)](https://github.com/anuraghazra/github-readme-stats)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=NazifAltintas&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
   ---
 
 ### :writing_hand: Blog Posts :
