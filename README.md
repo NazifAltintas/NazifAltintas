@@ -70,5 +70,8 @@
   ---
 
 ### :writing_hand: Blog Posts :
+  
+  <!-- HTML -->
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 </div>
