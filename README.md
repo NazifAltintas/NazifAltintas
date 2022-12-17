@@ -73,6 +73,6 @@
    
 <img align="center" src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" align="center"/>
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=NazifAltintas)](https://github.com/ryo-ma/github-profile-trophy)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=NazifAltintas&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
  
 </div>
