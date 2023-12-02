@@ -6,12 +6,16 @@
     <a href="https://www.linkedin.com/in/nazifaltintas/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+     <a href="https://medium.com/@aviator2012">
+      <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+    </a>
     <a href="">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
     <a href="">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
+   
   </div>
 
   <img src="https://komarev.com/ghpvc/?username=NazifAltintas&style=flat-square&color=blue" alt=""/>
@@ -27,7 +31,7 @@
   
   ---
 
-### :man_technologist: About Me :
+### 👨‍💻  About Me 
   I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belgium.
   - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
@@ -35,12 +39,12 @@
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Nazif-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nazifaltintas/)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Nazif-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nazifaltintas/)
  
   
 ---
 
-### :mechanical_arm: Skills :
+### 🦾  Skills 
   
   <div>
    
@@ -76,7 +80,7 @@
   
   ---
 
-### :fire: My Stats :
+### 🔥 My Stats 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NazifAltintas&theme=tokyonight&hide_border=&border_radius=9.1)](https://git.io/streak-stats) 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NazifAltintas&show_icons=true&theme=tokyonight&hide_border=&border_radius=9.1)  
@@ -84,7 +88,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=NazifAltintas&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
   ---
 
-### :writing_hand: Blog Posts :
+### ✍️ Blog Posts 
    
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
   
